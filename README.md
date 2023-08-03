@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+"This is a Blog-app made with the help of Ruby on rails".
